@@ -104,9 +104,9 @@
 Пользователь: Напиши клиенту о переносе.  
 Бот: Вот черновик: «Уважаемый [Имя], встреча переносится на 11:00.» Отправить?
 ```
-![Савви 1](Савви_1.png)
-![Савви 2](Савви_2.png)
-![Савви 3](Савви_3.png)
-![Савви 4](Савви_4.png)
-![Телеграм 1](Телеграм_1.png)
-![Календарь 1](Календарь_1.png)
+![Савви 1](https://github.com/RussianLioN/ai_assistant_bot/blob/main/Савви_1.png)
+![Савви_2](https://github.com/RussianLioN/ai_assistant_bot/blob/main/Савви_2.png)
+![Савви 3](https://github.com/RussianLioN/ai_assistant_bot/blob/main/Савви_3.png)
+![Савви 4](https://github.com/RussianLioN/ai_assistant_bot/blob/main/Савви_4.png)
+![Телеграм 1](https://github.com/RussianLioN/ai_assistant_bot/blob/main/Телеграм_1.png)
+![Календарь 1](https://github.com/RussianLioN/ai_assistant_bot/blob/main/Календарь_1.png)
